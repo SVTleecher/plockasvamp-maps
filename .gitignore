@@ -1,0 +1,5 @@
+*.map
+*.pbf
+*.osm
+*.tmp
+.DS_Store

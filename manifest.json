@@ -1,0 +1,347 @@
+{
+  "version": 1,
+  "updated": "2026-11-14",
+  "source": "https://download.geofabrik.de/europe/sweden-latest.osm.pbf",
+  "sourceDate": "2026-11-13",
+  "attribution": "© OpenStreetMap-bidragsgivare, ODbL",
+  "baseUrl": "https://github.com/SVTleecher/plockasvamp-maps/releases/download/maps-v1/",
+  "comment": "Byggda med osmium extract (complete_ways, admin_level=4) och mapsforge-map-writer 0.21 från Geofabrik Sweden PBF (sweden-261113). Inte filer från download.mapsforge.org.",
+  "files": [
+    {
+      "id": "stockholm",
+      "name": "Stockholms län",
+      "file": "stockholm.map",
+      "size": 54574713,
+      "sha256": "973fe5ccaa01c4dfd728c48108ba36035bd35ca8a0a5eeda557e47e3df95972a",
+      "bbox": [
+        58.48889,
+        17.243671,
+        60.300712,
+        20.008384
+      ],
+      "osmRelation": 54391,
+      "date": "2026-11-13",
+      "attribution": "© OpenStreetMap-bidragsgivare, ODbL"
+    },
+    {
+      "id": "uppsala",
+      "name": "Uppsala län",
+      "file": "uppsala.map",
+      "size": 22417748,
+      "sha256": "22b8aa1afdff10edc5e3cbdd30492d8a9d7769a35ca220c72ca5936f0900ac91",
+      "bbox": [
+        59.383465,
+        16.691966,
+        60.90691,
+        19.207929
+      ],
+      "osmRelation": 54220,
+      "date": "2026-11-13",
+      "attribution": "© OpenStreetMap-bidragsgivare, ODbL"
+    },
+    {
+      "id": "sodermanland",
+      "name": "Södermanlands län",
+      "file": "sodermanland.map",
+      "size": 19552873,
+      "sha256": "7cff5345712a9db17a9320d204869426c7166ff6a1bcb6b891c0b4cbdfc1bf45",
+      "bbox": [
+        58.398981,
+        15.616671,
+        59.530709,
+        17.951222
+      ],
+      "osmRelation": 54386,
+      "date": "2026-11-13",
+      "attribution": "© OpenStreetMap-bidragsgivare, ODbL"
+    },
+    {
+      "id": "ostergotland",
+      "name": "Östergötlands län",
+      "file": "ostergotland.map",
+      "size": 33035955,
+      "sha256": "601e13841d0f19894ce11b1e1092a307175d0c146efa10f347e8db17028fda8a",
+      "bbox": [
+        57.699604,
+        14.417738,
+        59.018746,
+        17.569278
+      ],
+      "osmRelation": 940675,
+      "date": "2026-11-13",
+      "attribution": "© OpenStreetMap-bidragsgivare, ODbL"
+    },
+    {
+      "id": "jonkoping",
+      "name": "Jönköpings län",
+      "file": "jonkoping.map",
+      "size": 19977664,
+      "sha256": "641d2c90af21a13cef3b265f5c19a9c7c031985e8ef45662e4c7bd4239bcefa0",
+      "bbox": [
+        56.879195,
+        13.077072,
+        58.191066,
+        15.665674
+      ],
+      "osmRelation": 54374,
+      "date": "2026-11-13",
+      "attribution": "© OpenStreetMap-bidragsgivare, ODbL"
+    },
+    {
+      "id": "kronoberg",
+      "name": "Kronobergs län",
+      "file": "kronoberg.map",
+      "size": 15349854,
+      "sha256": "06104a3757cd21da2ba12649a769c9d49659d50ee5c34c6acf6dc0cc00bac794",
+      "bbox": [
+        56.35888,
+        13.298157,
+        57.23856,
+        15.836186
+      ],
+      "osmRelation": 54412,
+      "date": "2026-11-13",
+      "attribution": "© OpenStreetMap-bidragsgivare, ODbL"
+    },
+    {
+      "id": "kalmar",
+      "name": "Kalmar län",
+      "file": "kalmar.map",
+      "size": 24630711,
+      "sha256": "c1985edc732fc826568b4e848b42c3cd8acebc26ea1c871e92007f500289a265",
+      "bbox": [
+        55.914135,
+        15.337371,
+        58.142442,
+        17.519771
+      ],
+      "osmRelation": 54417,
+      "date": "2026-11-13",
+      "attribution": "© OpenStreetMap-bidragsgivare, ODbL"
+    },
+    {
+      "id": "gotland",
+      "name": "Gotlands län",
+      "file": "gotland.map",
+      "size": 5485341,
+      "sha256": "fd3046ac77e24c07e530f1b09319a04a05ce8f1d7342957b3b3a8d1eabcf86d4",
+      "bbox": [
+        56.701218,
+        17.587456,
+        58.597778,
+        19.726166
+      ],
+      "osmRelation": 941530,
+      "date": "2026-11-13",
+      "attribution": "© OpenStreetMap-bidragsgivare, ODbL"
+    },
+    {
+      "id": "blekinge",
+      "name": "Blekinge län",
+      "file": "blekinge.map",
+      "size": 8843858,
+      "sha256": "d518760ef22ae1d91b412432248fc3b8ba1d1d38d77733097b8db084d9cc17aa",
+      "bbox": [
+        55.746693,
+        14.39015,
+        56.503541,
+        16.223684
+      ],
+      "osmRelation": 54413,
+      "date": "2026-11-13",
+      "attribution": "© OpenStreetMap-bidragsgivare, ODbL"
+    },
+    {
+      "id": "skane",
+      "name": "Skåne län",
+      "file": "skane.map",
+      "size": 44646699,
+      "sha256": "8cb1f21c8afeedcb47d5c736291476628068efc6059cef7137cf6a096bc12f1e",
+      "bbox": [
+        55.137096,
+        12.117457,
+        56.55722,
+        14.701726
+      ],
+      "osmRelation": 54409,
+      "date": "2026-11-13",
+      "attribution": "© OpenStreetMap-bidragsgivare, ODbL"
+    },
+    {
+      "id": "halland",
+      "name": "Hallands län",
+      "file": "halland.map",
+      "size": 15158493,
+      "sha256": "e6d0891e6da551ae0f787f30b12b65d65df2e66eba8642b5c4f69cbca9dce64c",
+      "bbox": [
+        56.324137,
+        11.453552,
+        57.597536,
+        13.693573
+      ],
+      "osmRelation": 54403,
+      "date": "2026-11-13",
+      "attribution": "© OpenStreetMap-bidragsgivare, ODbL"
+    },
+    {
+      "id": "vastra-gotaland",
+      "name": "Västra Götalands län",
+      "file": "vastra-gotaland.map",
+      "size": 94782867,
+      "sha256": "8fcc975d43afe0eba632b6c652c2758fb98ad9cfcb85a7a7ee0f9a08a88830f4",
+      "bbox": [
+        57.14555,
+        10.593502,
+        59.263692,
+        14.778819
+      ],
+      "osmRelation": 54367,
+      "date": "2026-11-13",
+      "attribution": "© OpenStreetMap-bidragsgivare, ODbL"
+    },
+    {
+      "id": "varmland",
+      "name": "Värmlands län",
+      "file": "varmland.map",
+      "size": 30052362,
+      "sha256": "19b08d95089a34866dfaeb252b38aa6962705c0cc87aad3827f8ef775b139bb3",
+      "bbox": [
+        58.725326,
+        11.691128,
+        61.056001,
+        14.475715
+      ],
+      "osmRelation": 54223,
+      "date": "2026-11-13",
+      "attribution": "© OpenStreetMap-bidragsgivare, ODbL"
+    },
+    {
+      "id": "orebro",
+      "name": "Örebro län",
+      "file": "orebro.map",
+      "size": 22394117,
+      "sha256": "0c60732018fec2a432bb78a8c50da79fb0e1de5e3c44ad849b048163002a48a1",
+      "bbox": [
+        58.646167,
+        14.285243,
+        60.110934,
+        15.798209
+      ],
+      "osmRelation": 54222,
+      "date": "2026-11-13",
+      "attribution": "© OpenStreetMap-bidragsgivare, ODbL"
+    },
+    {
+      "id": "vastmanland",
+      "name": "Västmanlands län",
+      "file": "vastmanland.map",
+      "size": 14269173,
+      "sha256": "b056c3ca652f6ff34eb70ae0d861ceae049f972ae05b729d5d763f7ae53552bc",
+      "bbox": [
+        59.197919,
+        15.422239,
+        60.195093,
+        16.965908
+      ],
+      "osmRelation": 54221,
+      "date": "2026-11-13",
+      "attribution": "© OpenStreetMap-bidragsgivare, ODbL"
+    },
+    {
+      "id": "dalarna",
+      "name": "Dalarnas län",
+      "file": "dalarna.map",
+      "size": 46810787,
+      "sha256": "68910198b8a3cf8165f4c247e03d35cbaccf05115189cde49e8b8af9ce3b40c0",
+      "bbox": [
+        59.854145,
+        12.137666,
+        62.267496,
+        16.70479
+      ],
+      "osmRelation": 52834,
+      "date": "2026-11-13",
+      "attribution": "© OpenStreetMap-bidragsgivare, ODbL"
+    },
+    {
+      "id": "gavleborg",
+      "name": "Gävleborgs län",
+      "file": "gavleborg.map",
+      "size": 34223144,
+      "sha256": "4cbe7f8df0e82ad0e0f61095f1f642befbada4dedf5e3df92ac70d7254b8d88b",
+      "bbox": [
+        60.188636,
+        14.446486,
+        62.34349,
+        18.116375
+      ],
+      "osmRelation": 52832,
+      "date": "2026-11-13",
+      "attribution": "© OpenStreetMap-bidragsgivare, ODbL"
+    },
+    {
+      "id": "vasternorrland",
+      "name": "Västernorrlands län",
+      "file": "vasternorrland.map",
+      "size": 34549433,
+      "sha256": "864789296f267339700050fade6dd314d262ac2df9bff5f9d7a91f3aa1a3a730",
+      "bbox": [
+        62.08718,
+        14.780352,
+        64.027381,
+        19.60776
+      ],
+      "osmRelation": 52827,
+      "date": "2026-11-13",
+      "attribution": "© OpenStreetMap-bidragsgivare, ODbL"
+    },
+    {
+      "id": "jamtland",
+      "name": "Jämtlands län",
+      "file": "jamtland.map",
+      "size": 87796200,
+      "sha256": "83a0c97e8a09f42d7d1a2954554e298611a6bb2ae1c4f1dfad7b5b1b4ab54c97",
+      "bbox": [
+        61.563908,
+        11.974582,
+        65.118915,
+        16.998978
+      ],
+      "osmRelation": 52826,
+      "date": "2026-11-13",
+      "attribution": "© OpenStreetMap-bidragsgivare, ODbL"
+    },
+    {
+      "id": "vasterbotten",
+      "name": "Västerbottens län",
+      "file": "vasterbotten.map",
+      "size": 55784864,
+      "sha256": "ebb5be37eb4afbdaa73645bf39e3379ff811a4ff172f16c08f7f2931f2449b23",
+      "bbox": [
+        63.102021,
+        14.325986,
+        66.345348,
+        22.080565
+      ],
+      "osmRelation": 52825,
+      "date": "2026-11-13",
+      "attribution": "© OpenStreetMap-bidragsgivare, ODbL"
+    },
+    {
+      "id": "norrbotten",
+      "name": "Norrbottens län",
+      "file": "norrbotten.map",
+      "size": 169627196,
+      "sha256": "9340c1ef2368f28c49b8b634c7a009d5adce89a290d9b6e1cbb049e8379382c0",
+      "bbox": [
+        64.902357,
+        15.377227,
+        69.059973,
+        24.177685
+      ],
+      "osmRelation": 52824,
+      "date": "2026-11-13",
+      "attribution": "© OpenStreetMap-bidragsgivare, ODbL"
+    }
+  ]
+}
